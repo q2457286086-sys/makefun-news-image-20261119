@@ -60,8 +60,9 @@ STORIES = [
     (
         "MIDDLE EAST",
         "Iran widens its Gulf attacks",
-        "Drones strike a US base in Kuwait and Bahrain again; "
-        "tankers hit mines near Hormuz; US carriers rise to three.",
+        "Iranian drones target US bases in Kuwait, "
+        "Bahrain; tankers hit mines near Hormuz, "
+        "Tehran says; US carriers rise to three.",
     ),
     (
         "EUROPE  ·  WAR",
@@ -91,8 +92,8 @@ BRIEFS = [
         "The ICJ delivers its judgment in The Hague today.",
     ),
     (
-        "Voyager 1 reaches one light-day from Earth",
-        "NASA's probe passes the mark 49 years after launch.",
+        "Van Gogh sells for a record $190.4m",
+        "A Van Gogh sells at auction after an ownership dispute.",
     ),
 ]
 
